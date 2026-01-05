@@ -12,6 +12,8 @@
 
 💬 Ask me about Cloud security, AWS misconfigurations, CTF strategies, building AI agents, Memory systems of Multi-agent systems<br>
 
+🌙 Peak productivity hours start when normal people log off.<br>
+
 
 
 ## 🌐 Socials:
