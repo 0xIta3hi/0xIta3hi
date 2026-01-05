@@ -1,103 +1,80 @@
-Hi there! 👋 My name is 0xIta3hi 
-=============================================================================================================================
+# Somewhere between security, clouds, AI agents, and breaking things responsibly
 
-🛡️ Cybersecurity Enthusiast | 🧠 AI Researcher | 🤖 Robotics Architect | 🧬 Quantum Explorer  
----
+🔭 I'm currently working on Cloud Security projects + building AI-powered NPC middleware for game developers - where cybersecurity meets generative AI<br>
 
-I'm currently diving deep into **Cybersecurity**, **Machine Learning**, **Quantum Computing**, and **AI Research**.  
-My work spans from building advanced threat detection tools to designing autonomous systems and exploring intersections between AI and quantum computing.
+🎮 Building **MemGraph** - A Neo4j + LLM-powered memory system for game NPCs with true long-term memory, relationship graphs, and emergent consequences<br>
 
-### 🔍 On my GitHub, you’ll find:
-- 🧠 **Reinforcement Learning agents** and AI experiments  
-- 🕵️‍♂️ **Cyber forensics**, **honeypots**, and **pentesting tools**  
-- 🔬 **Malware analysis** and behavioral detection utilities  
-- 🛡️ **Network security** tooling (packet sniffers, WAFs, firewalls)  
-- 🤖 Robotics simulations and embedded systems integrations  
-- ⚛️ Explorations in **Quantum + ML** with Qiskit & TensorFlow Quantum  
+👯 I'm looking to collaborate on Cloud security tools, AI agent architectures, agentic systems, Low-level systems, and LLM-powered applications<br>
 
----
+🤝 I'm looking for help with Advanced AWS security architectures, Kubernetes threat modeling, scaling cloud detection mechanisms, and enterprise AI/NPC middleware validation<br>
 
-### 🚀 Currently Exploring
-- Agentic AI and Autonomous Cyberdefense  
-- Reverse Engineering & Malware Development  
-- Advanced Threat Intelligence & OSINT  
-- ML in Digital Forensics  
-- Quantum Programming using Qiskit and Cirq  
+🌱 I'm currently learning Cloud Purple Teaming, AWS Security Specialty, MITRE ATT&CK cloud tactics, agentic AI patterns, , and prompt engineering at scale<br>
 
----
+💬 Ask me about Cloud security, AWS misconfigurations, CTF strategies, building AI agents, Memory systems of Multi-agent systems<br>
 
-🌍  Based in: **India**  
-🌐  Portfolio: [View Here](http://portfolio-34pb-m1tms-projects.vercel.app/)  
-✉️  Contact: [aryanbharadiyak2006@gmail.com](mailto:aryanbharadiyak2006@gmail.com)  
-🧠  Tools I’m learning: `Metasploit`, `TensorFlow`, `Qiskit`, `Wireshark`, `IDA`, `Burp Suite`  
-🤝  Open to collaborations in: `AI`, `Cybersecurity`, `Quantum Computing`, `Digital Forensics`
 
----
 
-## 🧰 Skills
+## 🌐 Socials:
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/0xIta3hi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aryan-cloud-security) [![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/yourusername) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
 
-<p align="left">
-  <!-- Core Languages -->
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" alt="Python" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" alt="C++" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" alt="JavaScript" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rust-colored-dark.svg" width="36" alt="Rust" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg" width="36" alt="GNU Bash" />
+# 💻 Tech Stack:
 
-  <!-- Tools & Platforms -->
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/neovim.svg" width="36" alt="Neovim" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" alt="Linux" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="36" alt="PyTorch" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" alt="TensorFlow" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/qiskit.svg" width="36" alt="Qiskit" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" width="36" alt="Arduino" />
+## Security & Cloud
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-  <!-- Backend / Web -->
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" alt="NodeJS" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="36" alt="Express" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored-dark.svg" width="36" alt="Flask" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored-dark.svg" width="36" alt="Django" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" alt="MongoDB" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" alt="PostgreSQL" />
-</p>
+## AI/GenAI & Full-Stack
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white) ![Anthropic Claude](https://img.shields.io/badge/Claude-181818?style=for-the-badge&logo=anthropic&logoColor=white)
 
----
+## Databases & Vector Stores
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white) ![Weaviate](https://img.shields.io/badge/Weaviate-00C389?style=for-the-badge&logo=weaviate&logoColor=white) ![Elasticsearch](https://img.shields.io/badge/elasticsearch-%230377CC.svg?style=for-the-badge&logo=elasticsearch&logoColor=white)
 
-## 🌐 Socials
+## DevOps & Version Control
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
-<p align="left">
-  <a href="https://www.dev.to/m1tm"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" /></a>
-  <a href="https://discord.com/users/sudozeus"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" /></a>
-  <a href="https://github.com/computerphobe"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" /></a>
-  <a href="http://www.instagram.com/__aryxn_0"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" /></a>
-  <a href="https://www.linkedin.com/in/aryan-bharadiya-596585210/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" /></a>
-  <a href="http://www.medium.com/@aryanbharadiyak2006"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" /></a>
-  <a href="https://www.x.com/m1_tm71838"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" /></a>
-</p>
+# 🔐 Security Tools & Frameworks:
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white) ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white) ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white) ![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white) ![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white)
 
----
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=yourusername&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=yourusername&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🧮 GitHub Stats
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=yourusername&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
 
-<a href="http://www.github.com/computerphobe"><img src="https://github-readme-stats.vercel.app/api?username=computerphobe&show_icons=true&count_private=true&theme=tokyonight" /></a>
+## 🤖 Featured AI/GenAI Projects
+- **MemGraph NPC System** - Neo4j + LLM-powered memory architecture for game NPCs with relationship graphs and emergent behavior
+- **AI NPC Middleware Platform** - SDK for game developers (Unity/Unreal) to integrate intelligent NPCs with < 1 hour setup
+- **Balancer Charity dApp** - Users stake Balancer Pool Tokens (BPT) to earn BAL rewards, which are automatically donated to public good causes.
+- **GhostGate** - HoneyPot with multi-services build in complete C++
+- **NeuralRE** - Working on the intersection of Agentic AI and Reverse Engineering, This Agents help in understanding reverse engineered binaries.
 
-<a href="http://www.github.com/computerphobe"><img src="https://github-readme-streak-stats.herokuapp.com/?user=computerphobe&theme=tokyonight" /></a>
+## 🎯 Current Focus (2026)
 
-<a href="http://www.github.com/computerphobe"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=computerphobe&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area=true&hide_border=true" /></a>
+### Security Track
+- Building 10 production-grade cloud security projects
+- Contributing to cloud security open source (Prowler, ScoutSuite, Falco)
+- AWS Certified Security - Specialty preparation
+- Weekly CTF participation (cloud/infrastructure challenges)
 
-<a href="http://www.github.com/computerphobe"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=computerphobe&langs_count=10&theme=tokyonight" /></a>
+### AI/Startup Track
+- Building AI NPC middleware startup (validation phase)
+- Neo4j graph database + vector search architecture
+- LLM prompt engineering and cost optimization at scale
+- Enterprise SaaS go-to-market strategy for game studios
+- Hybrid indie/enterprise business model validation
+
+### Documenting Everything
+- Twitter: [@0xIta3hi](https://twitter.com/0xIta3hi) - Security + AI insights
+- Building in public: Startup journey, technical deep-dives, lessons learned
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=yourusername&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=yourusername&icon=0&color=12)](https://visitcount.itsvg.in)
 
-## 📌 Pinned Projects
-
-<a href="https://github.com/computerphobe/EnterprizeResoucePlanner"><img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=computerphobe&repo=postmanchallenge&theme=tokyonight" /></a>
-
-<!-- Add more as you go -->
-
----
-
-### 🧠 Motto:
-> _“Build deep. Think abstract. Act secure.”_
-
----
+<!-- Built with determination, broken contracts, Neo4j graphs, LLM prompts, and way too much coffee ☕🔐🤖 -->
