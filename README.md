@@ -13,12 +13,10 @@
 
 ```bash
 ┌──(0xIta3hi@base)-[~]
-└─$ cat << EOF
+└─$ whoami
 > Cloud Security Researcher | AI/NPC Architect | Nocturnal Builder
-> Currently: Breaking AWS, Building MemGraph, Shipping at 3AM
-> Location: Jamnagar, Gujarat → Thinking Globally
-> Status: Deep in Neo4j graphs and LLM prompts
-EOF
+> Currently: Breaking AWS, Building MemGraph.
+> Status: Deep in cloud security, GenAI, Agentic AI
 ```
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
@@ -112,11 +110,11 @@ collab_on: [Cloud Security Tools, AI Agents, LLM Applications, Low-level Systems
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=C9D1D9&ring_color=F85D7F" height="165" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F85D7F" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=0xIta3hi&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=C9D1D9&ring_color=F85D7F" height="165" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=0xIta3hi&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F85D7F" height="165" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=C9D1D9" height="165" />
-<img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&no-frame=true&no-bg=true&row=1&column=4" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xIta3hi&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=C9D1D9" height="165" />
+<img src="https://github-profile-trophy.vercel.app/?username=0xIta3hi&theme=radical&no-frame=true&no-bg=true&row=1&column=4" height="165" />
 
 </div>
 
@@ -207,28 +205,8 @@ collab_on: [Cloud Security Tools, AI Agents, LLM Applications, Low-level Systems
 
 ---
 
-### `// ROADMAP_2026`
-
-```
-┌─────────────────────────────────────────────────────────────────┐
-│                                                                 │
-│  Q1 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━│
-│   ├─ Launch MemGraph MVP                              [▓▓▓▓▓▓▓░] │
-│   ├─ AWS Security Specialty Cert                      [▓▓▓▓▓░░░] │
-│   └─ Complete 3 Cloud Security Projects               [▓▓▓▓▓▓░░] │
-│                                                                 │
-│  Q2 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━│
-│   ├─ AI Middleware Enterprise Validation              [▓▓▓▓░░░░] │
-│   ├─ CTF Top 100 Ranking                              [▓▓▓▓▓▓░░] │
-│   └─ 5 OSS Security Contributions                     [▓▓▓░░░░░] │
-│                                                                 │
-│  H2 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━│
-│   ├─ Scale AI NPC Platform                            [▓░░░░░░░] │
-│   ├─ Complete 10 Security Projects                    [▓▓▓░░░░░] │
-│   └─ Build Public Learning Content                    [▓▓░░░░░░] │
-│                                                                 │
-└─────────────────────────────────────────────────────────────────┘
-```
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
 
@@ -237,7 +215,7 @@ collab_on: [Cloud Security Tools, AI Agents, LLM Applications, Low-level Systems
 <div align="center">
 
 [![Twitter](https://img.shields.io/badge/@0xIta3hi-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/0xIta3hi)
-[![LinkedIn](https://img.shields.io/badge/aryan--bharadiya-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aryan-bharadiya)
+[![LinkedIn](https://img.shields.io/badge/aryan-bharadiya-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aryan-bharadiya)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aryanbharadiyak2006@gmail.com)
 
 </div>
@@ -257,6 +235,6 @@ collab_on: [Cloud Security Tools, AI Agents, LLM Applications, Low-level Systems
 └─────────────────────────────────────────────────────────────┘
 ```
 
-![Visitor Count](https://visitcount.itsvg.in/api?id=yourusername&icon=6&color=dc143c)
+![Visitor Count](https://visitcount.itsvg.in/api?id=0xIta3hi&icon=6&color=dc143c)
 
 </div>
