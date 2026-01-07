@@ -1,90 +1,262 @@
 <div align="center">
 
-```
-   ___       _____ __         _____ __    _ 
-  / _ \__ __/  _/ /______ _  |_  / // /  (_)
- / // / \ \ / // __/ _ `/   /_ </ _  / / / 
-/____/_\_\__//_/ \_,_/   /___/_//_/ /_/  
-                                          
-```
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7C2&center=true&vCenter=true&width=435&lines=Cloud+Security+%7C+AI+Agents;Breaking+Clouds+%26+Building+NPCs;Always+Shipping+at+3AM)
-
-**`cloud hacker × ai architect × npc whisperer`**
-
-</div>
-
----
-
-<div align="center">
-
-### currently cooking
-
-**MemGraph** → Neo4j + LLM memory for game NPCs  
-**Cloud Purple Teaming** → AWS/Azure attack paths  
-**AI Middleware** → Enterprise NPC platform
-
-[`twitter`](https://twitter.com/0xIta3hi) • [`linkedin`](https://linkedin.com/in/aryan-bharadiya) • [`email`](mailto:aryanbharadiyak2006@gmail.com)
-
-</div>
-
----
-
-<div align="center">
-
-### stack
-
-**offensive** → `python` `go` `bash` `burp` `metasploit` `nmap`  
-**cloud** → `aws` `azure` `gcp` `terraform` `k8s` `docker`  
-**ai/llm** → `langchain` `openai` `claude` `neo4j` `pinecone`  
-**web** → `react` `next` `typescript` `fastapi` `tailwind`
-
-</div>
-
----
-
-<div align="center">
-
-### stats
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00F7C2&icon_color=00F7C2" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00F7C2" />
-
-</div>
-
----
-
-<div align="center">
-
-### building
-
-**MemGraph** — LLM-powered NPC memory with relationship graphs  
-**AI NPC Middleware** — Unity/Unreal SDK for intelligent NPCs  
-**GhostGate** — Multi-service honeypot in C++  
-**NeuralRE** — Agentic AI for reverse engineering  
-**Balancer Charity dApp** — Stake → Earn → Auto-donate
-
-</div>
-
----
-
-<div align="center">
-
-### 2026 focus
-
-`10 cloud security projects` • `aws security specialty` • `startup validation`  
-`weekly ctfs` • `oss contributions` • `building in public`
-
-</div>
-
----
-
-<div align="center">
-
-```
-☕ coffee-driven • 🌙 nocturnal coder • 🔐 break responsibly
+```ascii
+        ██████╗ ██╗  ██╗██╗████████╗ █████╗ ██████╗ ██╗  ██╗██╗
+       ██╔═████╗╚██╗██╔╝██║╚══██╔══╝██╔══██╗╚════██╗██║  ██║██║
+       ██║██╔██║ ╚███╔╝ ██║   ██║   ███████║ █████╔╝███████║██║
+       ████╔╝██║ ██╔██╗ ██║   ██║   ██╔══██║ ╚═══██╗██╔══██║██║
+       ╚██████╔╝██╔╝ ██╗██║   ██║   ██║  ██║██████╔╝██║  ██║██║
+        ╚═════╝ ╚═╝  ╚═╝╚═╝   ╚═╝   ╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝╚═╝
 ```
 
-![](https://visitcount.itsvg.in/api?id=yourusername&icon=5&color=00F7C2)
+</div>
+
+```bash
+┌──(0xIta3hi@base)-[~]
+└─$ cat << EOF
+> Cloud Security Researcher | AI/NPC Architect | Nocturnal Builder
+> Currently: Breaking AWS, Building MemGraph, Shipping at 3AM
+> Location: Jamnagar, Gujarat → Thinking Globally
+> Status: Deep in Neo4j graphs and LLM prompts
+EOF
+```
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+
+---
+
+### `// WORKSPACE`
+
+```yaml
+currently_active:
+  - project: "MemGraph"
+    desc: "Neo4j + LLM memory system for NPCs with emergent relationships"
+    stack: [Neo4j, Python, LangChain, FastAPI, React]
+    status: "production_ready"
+    
+  - project: "AI NPC Middleware"  
+    desc: "Enterprise SDK for Unity/Unreal intelligent NPCs"
+    stack: [TypeScript, C++, gRPC, Docker]
+    status: "validation_phase"
+    
+  - project: "Cloud Purple Team Labs"
+    desc: "10 production security projects for AWS/Azure/GCP"
+    stack: [Python, Terraform, Kubernetes, Go]
+    status: "in_progress"
+
+interests: [Cloud Security, Agentic AI, CTF, Graph Databases, Reverse Engineering]
+learning: [AWS Security Specialty, MITRE ATT&CK, Prompt Engineering, Neo4j]
+collab_on: [Cloud Security Tools, AI Agents, LLM Applications, Low-level Systems]
+```
+
+---
+
+### `// ARSENAL`
+
+<table>
+<tr>
+<td valign="top" width="33%">
+
+#### Security & Cloud
+```
+▓▓▓▓▓▓▓▓▓░ Python
+▓▓▓▓▓▓▓░░░ Go  
+▓▓▓▓▓▓▓▓░░ Bash
+▓▓▓▓▓▓▓▓▓▓ AWS
+▓▓▓▓▓▓▓░░░ Azure
+▓▓▓▓▓▓▓▓░░ Terraform
+▓▓▓▓▓▓▓▓▓░ Kubernetes
+▓▓▓▓▓▓▓▓▓▓ Docker
+▓▓▓▓▓▓▓▓▓▓ Linux
+```
+
+</td>
+<td valign="top" width="33%">
+
+#### AI & Development
+```
+▓▓▓▓▓▓▓▓░░ TypeScript
+▓▓▓▓▓▓▓░░░ JavaScript
+▓▓▓▓▓▓▓▓▓░ React/Next
+▓▓▓▓▓▓▓▓▓░ FastAPI
+▓▓▓▓▓▓▓▓░░ LangChain
+▓▓▓▓▓▓▓▓▓░ OpenAI/Claude
+▓▓▓▓▓▓▓▓▓▓ Neo4j
+▓▓▓▓▓▓▓░░░ Pinecone
+▓▓▓▓▓▓▓▓░░ TailwindCSS
+```
+
+</td>
+<td valign="top" width="33%">
+
+#### Offensive Tools
+```
+▓▓▓▓▓▓▓▓▓░ Burp Suite
+▓▓▓▓▓▓▓▓░░ Metasploit
+▓▓▓▓▓▓▓▓▓░ Nmap
+▓▓▓▓▓▓▓▓░░ Wireshark
+▓▓▓▓▓▓▓░░░ OWASP Tools
+▓▓▓▓▓▓▓▓░░ Custom Exploits
+▓▓▓▓▓▓▓▓▓░ Cloud CSPM
+▓▓▓▓▓▓▓░░░ Reverse Eng
+▓▓▓▓▓▓▓▓░░ Binary Analysis
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+### `// METRICS`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=C9D1D9&ring_color=F85D7F" height="165" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F85D7F" height="165" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=C9D1D9" height="165" />
+<img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&no-frame=true&no-bg=true&row=1&column=4" height="165" />
+
+</div>
+
+---
+
+### `// PROJECTS.md`
+
+<table>
+<tr>
+<td width="50%">
+
+#### 🧠 MemGraph
+**Neo4j + LLM Memory Architecture**
+- True long-term NPC memory
+- Relationship graph evolution
+- Emergent behavior patterns
+- Context-aware dialogue
+
+`Neo4j` `LangChain` `FastAPI` `React`
+
+</td>
+<td width="50%">
+
+#### 🎮 AI NPC Middleware
+**Enterprise SDK for Game Studios**
+- Unity/Unreal integration
+- <1 hour setup time
+- Production-ready scalability
+- Indie to enterprise model
+
+`TypeScript` `C++` `gRPC` `Docker`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+#### 🔒 GhostGate
+**Multi-Service Honeypot**
+- Complete C++ implementation
+- Multiple protocol emulation
+- Attack pattern analysis
+- Real-time alerting
+
+`C++` `Networking` `Security`
+
+</td>
+<td width="50%">
+
+#### 🤖 NeuralRE
+**Agentic AI × Reverse Engineering**
+- AI-assisted binary analysis
+- Automated deobfuscation
+- Pattern recognition
+- Vulnerability discovery
+
+`Python` `LLMs` `Binary Analysis`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+#### 💰 Balancer Charity dApp
+**DeFi Meets Social Impact**
+- Stake BPT tokens
+- Auto-earn BAL rewards
+- Transparent donations
+- Public goods funding
+
+`Solidity` `Web3` `React` `ethers.js`
+
+</td>
+<td width="50%">
+
+#### ☁️ Cloud Purple Team Labs
+**10 Production Security Projects**
+- Attack path simulation
+- CSPM tool development
+- Kubernetes threat modeling
+- Open source contributions
+
+`Python` `Terraform` `K8s` `Go`
+
+</td>
+</tr>
+</table>
+
+---
+
+### `// ROADMAP_2026`
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│                                                                 │
+│  Q1 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━│
+│   ├─ Launch MemGraph MVP                              [▓▓▓▓▓▓▓░] │
+│   ├─ AWS Security Specialty Cert                      [▓▓▓▓▓░░░] │
+│   └─ Complete 3 Cloud Security Projects               [▓▓▓▓▓▓░░] │
+│                                                                 │
+│  Q2 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━│
+│   ├─ AI Middleware Enterprise Validation              [▓▓▓▓░░░░] │
+│   ├─ CTF Top 100 Ranking                              [▓▓▓▓▓▓░░] │
+│   └─ 5 OSS Security Contributions                     [▓▓▓░░░░░] │
+│                                                                 │
+│  H2 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━│
+│   ├─ Scale AI NPC Platform                            [▓░░░░░░░] │
+│   ├─ Complete 10 Security Projects                    [▓▓▓░░░░░] │
+│   └─ Build Public Learning Content                    [▓▓░░░░░░] │
+│                                                                 │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+---
+
+### `// CONNECT`
+
+<div align="center">
+
+[![Twitter](https://img.shields.io/badge/@0xIta3hi-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/0xIta3hi)
+[![LinkedIn](https://img.shields.io/badge/aryan--bharadiya-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aryan-bharadiya)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aryanbharadiyak2006@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│  "Breaking clouds by day, building sentient NPCs by night" │
+│                                                             │
+│  Built with: ☕ Coffee • 🧠 Neo4j Graphs • 🔐 Zero-days   │
+│              🤖 LLM Prompts • 💻 3AM Energy                │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
+
+![Visitor Count](https://visitcount.itsvg.in/api?id=yourusername&icon=6&color=dc143c)
 
 </div>
