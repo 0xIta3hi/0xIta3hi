@@ -2,67 +2,18 @@ name: Metrics
 on:
   # Schedule daily updates
   schedule: [{cron: "0 0 * * *"}]
-  # Run manually or on push
+  # (optional) Run workflow manually
   workflow_dispatch:
+  # (optional) Run workflow when pushing on master/main
   push: {branches: ["master", "main"]}
-
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
+    environment: 
+      name: production
     permissions:
       contents: write
     steps:
-      # ----------------------------------------------------------------
-      # STEP 1: The Left/Right Sidebar Stats (Languages, Habits, etc.)
-      # ----------------------------------------------------------------
-      - name: General Metrics
-        uses: lowlighter/metrics@latest
+      - uses: lowlighter/metrics@latest
         with:
-          filename: github-metrics.svg
-          token: ${{ secrets.METRICS_TOKEN }} # 🔒 USE SECRET HERE
-          
-          # Options
-          user: 0xIta3hi
-          template: classic
-          base: header, activity, community, repositories, metadata
-          config_timezone: Asia/Kolkata
-          
-          # Habits plugin (coding habits)
-          plugin_habits: yes
-          plugin_habits_charts_type: classic
-          plugin_habits_days: 14
-          plugin_habits_facts: yes
-          plugin_habits_from: 200
-
-          # Languages plugin
-          plugin_languages: yes
-          plugin_languages_analysis_timeout: 15
-          plugin_languages_categories: markup, programming
-          plugin_languages_colors: github
-          plugin_languages_limit: 8
-          plugin_languages_sections: most-used
-          plugin_languages_threshold: 0%
-
-          # Notable contributions
-          plugin_notable: yes
-          plugin_notable_from: organization
-          plugin_notable_types: commit
-
-          # Achievements
-          plugin_achievements: yes
-          plugin_achievements_display: compact
-          plugin_achievements_threshold: C
-
-      # ----------------------------------------------------------------
-      # STEP 2: The 3D Isometric Calendar (Center Banner)
-      # ----------------------------------------------------------------
-      - name: 3D Isometric Calendar
-        uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.plugin.isocalendar.svg
-          token: ${{ secrets.METRICS_TOKEN }} # 🔒 USE SECRET HERE
-          base: "" # Empty base to make it a standalone banner
-          
-          # Isometric settings
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
+          token: ${{ secrets.METRICS_TOKEN }}
