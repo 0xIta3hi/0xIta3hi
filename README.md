@@ -1,6 +1,31 @@
-<div align="center"> ```ascii ██████╗ ██╗ ██╗██╗████████╗ █████╗ ██████╗ ██╗ ██╗██╗ ██╔═████╗╚██╗██╔╝██║╚══██╔══╝██╔══██╗╚════██╗██║ ██║██║ ██║██╔██║ ╚███╔╝ ██║ ██║ ███████║ █████╔╝███████║██║ ████╔╝██║ ██╔██╗ ██║ ██║ ██╔══██║ ╚═══██╗██╔══██║██║ ╚██████╔╝██╔╝ ██╗██║ ██║ ██║ ██║██████╔╝██║ ██║██║ ╚═════╝ ╚═╝ ╚═╝╚═╝ ╚═╝ ╚═╝ ╚═╝╚═════╝ ╚═╝ ╚═╝╚═╝ ``` </div> ```bash ┌──(0xIta3hi@base)-[~] └─$ whoami > Cloud Security Researcher | AI/NPC Architect | Nocturnal Builder > Currently: Breaking AWS, Building MemGraph. > Status: Deep in cloud security, GenAI, Agentic AI ``` <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-// WORKSPACE
-yaml
+<div align="center">
+
+```ascii
+        ██████╗ ██╗  ██╗██╗████████╗ █████╗ ██████╗ ██╗  ██╗██╗
+       ██╔═████╗╚██╗██╔╝██║╚══██╔══╝██╔══██╗╚════██╗██║  ██║██║
+       ██║██╔██║ ╚███╔╝ ██║   ██║   ███████║ █████╔╝███████║██║
+       ████╔╝██║ ██╔██╗ ██║   ██║   ██╔══██║ ╚═══██╗██╔══██║██║
+       ╚██████╔╝██╔╝ ██╗██║   ██║   ██║  ██║██████╔╝██║  ██║██║
+        ╚═════╝ ╚═╝  ╚═╝╚═╝   ╚═╝   ╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝╚═╝
+```
+
+</div>
+
+```bash
+┌──(0xIta3hi@base)-[~]
+└─$ whoami
+> Cloud Security Researcher | AI/NPC Architect | Nocturnal Builder
+> Currently: Breaking AWS, Building MemGraph.
+> Status: Deep in cloud security, GenAI, Agentic AI
+```
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+
+---
+
+### `// WORKSPACE`
+
+```yaml
 currently_active:
   - project: "MemGraph"
     desc: "Neo4j + LLM memory system for NPCs with emergent relationships"
@@ -20,9 +45,18 @@ currently_active:
 interests: [Cloud Security, Agentic AI, CTF, Graph Databases, Reverse Engineering]
 learning: [AWS Security Specialty, MITRE ATT&CK, Prompt Engineering, Neo4j]
 collab_on: [Cloud Security Tools, AI Agents, LLM Applications, Low-level Systems]
-// ARSENAL
-<table> <tr> <td valign="top" width="33%">
-Security & Cloud
+```
+
+---
+
+### `// ARSENAL`
+
+<table>
+<tr>
+<td valign="top" width="33%">
+
+#### Security & Cloud
+```
 ▓▓▓▓▓▓▓▓▓░ Python
 ▓▓▓▓▓▓▓░░░ Go  
 ▓▓▓▓▓▓▓▓░░ Bash
@@ -32,19 +66,29 @@ Security & Cloud
 ▓▓▓▓▓▓▓▓▓░ Kubernetes
 ▓▓▓▓▓▓▓▓▓▓ Docker
 ▓▓▓▓▓▓▓▓▓▓ Linux
-</td> <td valign="top" width="33%">
-AI & Development
+```
+
+</td>
+<td valign="top" width="33%">
+
+#### AI & Development
+```
 ▓▓▓▓▓▓▓▓░░ TypeScript
 ▓▓▓▓▓▓▓░░░ JavaScript
 ▓▓▓▓▓▓▓▓▓░ React/Next
-▓▓▓▓▓▓▓▓░░ FastAPI
+▓▓▓▓▓▓▓▓▓░ FastAPI
 ▓▓▓▓▓▓▓▓░░ LangChain
 ▓▓▓▓▓▓▓▓▓░ OpenAI/Claude
 ▓▓▓▓▓▓▓▓▓▓ Neo4j
 ▓▓▓▓▓▓▓░░░ Pinecone
 ▓▓▓▓▓▓▓▓░░ TailwindCSS
-</td> <td valign="top" width="33%">
-Offensive Tools
+```
+
+</td>
+<td valign="top" width="33%">
+
+#### Offensive Tools
+```
 ▓▓▓▓▓▓▓▓▓░ Burp Suite
 ▓▓▓▓▓▓▓▓░░ Metasploit
 ▓▓▓▓▓▓▓▓▓░ Nmap
@@ -54,7 +98,14 @@ Offensive Tools
 ▓▓▓▓▓▓▓▓▓░ Cloud CSPM
 ▓▓▓▓▓▓▓░░░ Reverse Eng
 ▓▓▓▓▓▓▓▓░░ Binary Analysis
-</td> </tr> </table>
+```
+
+</td>
+</tr>
+</table>
+
+---
+
 // METRICS
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=0xIta3hi&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=C9D1D9&ring_color=F85D7F" height="165" alt="GitHub Stats" /> <img src="https://streak-stats.demolab.com/?user=0xIta3hi&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F85D7F" height="165" alt="GitHub Streak" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xIta3hi&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=C9D1D9" height="165" alt="Top Languages" /> <img src="https://github-profile-trophy.vercel.app/?username=0xIta3hi&theme=radical&no-frame=true&no-bg=true&row=1&column=4" height="165" alt="Trophies" /> </div>
 // GITHUB_METRICS
@@ -80,79 +131,124 @@ Show Image
 Show Image
 
 </div> </details>
-// PROJECTS.md
-<table> <tr> <td width="50%">
-🧠 MemGraph
-Neo4j + LLM Memory Architecture
 
-True long-term NPC memory
-Relationship graph evolution
-Emergent behavior patterns
-Context-aware dialogue
-Neo4j LangChain FastAPI React
+---
 
-</td> <td width="50%">
-🎮 AI NPC Middleware
-Enterprise SDK for Game Studios
+### `// PROJECTS.md`
 
-Unity/Unreal integration
-<1 hour setup time
-Production-ready scalability
-Indie to enterprise model
-TypeScript C++ gRPC Docker
+<table>
+<tr>
+<td width="50%">
 
-</td> </tr> <tr> <td width="50%">
-🔒 GhostGate
-Multi-Service Honeypot
+#### 🧠 MemGraph
+**Neo4j + LLM Memory Architecture**
+- True long-term NPC memory
+- Relationship graph evolution
+- Emergent behavior patterns
+- Context-aware dialogue
 
-Complete C++ implementation
-Multiple protocol emulation
-Attack pattern analysis
-Real-time alerting
-C++ Networking Security
+`Neo4j` `LangChain` `FastAPI` `React`
 
-</td> <td width="50%">
-🤖 NeuralRE
-Agentic AI × Reverse Engineering
+</td>
+<td width="50%">
 
-AI-assisted binary analysis
-Automated deobfuscation
-Pattern recognition
-Vulnerability discovery
-Python LLMs Binary Analysis
+#### 🎮 AI NPC Middleware
+**Enterprise SDK for Game Studios**
+- Unity/Unreal integration
+- <1 hour setup time
+- Production-ready scalability
+- Indie to enterprise model
 
-</td> </tr> <tr> <td width="50%">
-💰 Balancer Charity dApp
-DeFi Meets Social Impact
+`TypeScript` `C++` `gRPC` `Docker`
 
-Stake BPT tokens
-Auto-earn BAL rewards
-Transparent donations
-Public goods funding
-Solidity Web3 React ethers.js
+</td>
+</tr>
+<tr>
+<td width="50%">
 
-</td> <td width="50%">
-☁️ Cloud Purple Team Labs
-10 Production Security Projects
+#### 🔒 GhostGate
+**Multi-Service Honeypot**
+- Complete C++ implementation
+- Multiple protocol emulation
+- Attack pattern analysis
+- Real-time alerting
 
-Attack path simulation
-CSPM tool development
-Kubernetes threat modeling
-Open source contributions
-Python Terraform K8s Go
+`C++` `Networking` `Security`
 
-</td> </tr> </table>
-✍️ Random Dev Quote
-Show Image
+</td>
+<td width="50%">
 
-// CONNECT
+#### 🤖 NeuralRE
+**Agentic AI × Reverse Engineering**
+- AI-assisted binary analysis
+- Automated deobfuscation
+- Pattern recognition
+- Vulnerability discovery
+
+`Python` `LLMs` `Binary Analysis`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+#### 💰 Balancer Charity dApp
+**DeFi Meets Social Impact**
+- Stake BPT tokens
+- Auto-earn BAL rewards
+- Transparent donations
+- Public goods funding
+
+`Solidity` `Web3` `React` `ethers.js`
+
+</td>
+<td width="50%">
+
+#### ☁️ Cloud Purple Team Labs
+**10 Production Security Projects**
+- Attack path simulation
+- CSPM tool development
+- Kubernetes threat modeling
+- Open source contributions
+
+`Python` `Terraform` `K8s` `Go`
+
+</td>
+</tr>
+</table>
+
+---
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+---
+
+### `// CONNECT`
+
 <div align="center">
-Show Image
-Show Image
-Show Image
+
+[![Twitter](https://img.shields.io/badge/@0xIta3hi-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/0xIta3hi)
+[![LinkedIn](https://img.shields.io/badge/aryan-bharadiya-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aryan-bharadiya)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aryanbharadiyak2006@gmail.com)
 
 </div>
-<div align="center"> ``` ┌─────────────────────────────────────────────────────────────┐ │ │ │ "Breaking clouds by day, building sentient NPCs by night" │ │ │ │ Built with: ☕ Coffee • 🧠 Neo4j Graphs • 🔐 Zero-days │ │ 🤖 LLM Prompts • 💻 3AM Energy │ │ │ └─────────────────────────────────────────────────────────────┘ ```
-Show Image
+
+---
+
+<div align="center">
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│  "Breaking clouds by day, building sentient NPCs by night" │
+│                                                             │
+│  Built with: ☕ Coffee • 🧠 Neo4j Graphs • 🔐 Zero-days   │
+│              🤖 LLM Prompts • 💻 3AM Energy                │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
+
+![Visitor Count](https://komarev.com/ghpvc/?username=0xIta3hi&label=Profile%20Views)
 
 </div>
