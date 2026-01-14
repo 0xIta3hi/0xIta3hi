@@ -130,7 +130,7 @@ collab_on: [Cloud Security Tools, AI Agents, LLM Applications, Low-level Systems
 <td width="50%">
 
 #### 🎮 AI NPC Middleware
-**Enterprise SDK for Game Studios**
+**Enterprise SDK for Game Studios** ( in ideation phase )
 - Unity/Unreal integration
 - <1 hour setup time
 - Production-ready scalability
@@ -182,7 +182,7 @@ collab_on: [Cloud Security Tools, AI Agents, LLM Applications, Low-level Systems
 <td width="50%">
 
 #### ☁️ Cloud Purple Team Labs
-**10 Production Security Projects**
+**10 Production Security Projects** ( on the way )
 - Attack path simulation
 - CSPM tool development
 - Kubernetes threat modeling
