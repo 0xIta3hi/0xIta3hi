@@ -218,9 +218,9 @@ collab_on: [Cloud Security Tools, AI Agents, LLM Applications, Low-level Systems
 ```
 ┌─────────────────────────────────────────────────────────────┐
 │                                                             │
-│  "Breaking clouds by day, building sentient NPCs by night" │
+│  "Breaking clouds by day, building sentient NPCs by night"  │
 │                                                             │
-│  Built with: ☕ Coffee • 🧠 Neo4j Graphs • 🔐 Zero-days   │
+│  Built with: ☕ Coffee • 🧠 Neo4j Graphs • 🔐 Zero-days   |
 │              🤖 LLM Prompts • 💻 3AM Energy                │
 │                                                             │
 └─────────────────────────────────────────────────────────────┘
