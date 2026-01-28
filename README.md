@@ -107,9 +107,9 @@ collab_on: [Cloud Security Tools, AI Agents, LLM Applications, Low-level Systems
 ---
 
 // METRICS
-![](https://github-readme-stats.vercel.app/api?username=0xIta3hi&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=0xIta3hi&theme=shadow_green&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=0xIta3hi&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=0xIta3hi&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=0xIta3hi&theme=nightowl&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=0xIta3hi&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
