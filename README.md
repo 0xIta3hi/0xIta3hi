@@ -183,14 +183,15 @@ collab_on: [Cloud Security Tools, AI Agents, LLM Applications, Low-level Systems
 
 </td>
 <td width="50%">
+        
 #### 🤖 OS Copilot (Local)
 **Privacy-First Windows AI Agent**
 - Agentic ReAct workflow with local LLM
 - Native file system integration (Ollama + Llama 3)
 - Spotlight-style overlay (Ctrl+Space)
 - 100% local inference - zero cloud dependencies
-
-`Python` `Ollama` `customtkinter` `LLM Agents`
+        
+  `Python` `Ollama` `customtkinter` `LLM Agents`
 </td>
 </tr>
 </table>
