@@ -107,6 +107,7 @@ collab_on: [Cloud Security Tools, AI Agents, LLM Applications, Low-level Systems
 ---
 
 // METRICS<br/>
+<br/>
 ![](https://github-readme-stats.vercel.app/api?username=0xIta3hi&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=0xIta3hi&theme=nightowl&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=0xIta3hi&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
@@ -182,16 +183,14 @@ collab_on: [Cloud Security Tools, AI Agents, LLM Applications, Low-level Systems
 
 </td>
 <td width="50%">
+#### 🤖 OS Copilot (Local)
+**Privacy-First Windows AI Agent**
+- Agentic ReAct workflow with local LLM
+- Native file system integration (Ollama + Llama 3)
+- Spotlight-style overlay (Ctrl+Space)
+- 100% local inference - zero cloud dependencies
 
-#### ☁️ Cloud Purple Team Labs
-**10 Production Security Projects** ( on the way )
-- Attack path simulation
-- CSPM tool development
-- Kubernetes threat modeling
-- Open source contributions
-
-`Python` `Terraform` `K8s` `Go`
-
+`Python` `Ollama` `customtkinter` `LLM Agents`
 </td>
 </tr>
 </table>
@@ -218,14 +217,14 @@ collab_on: [Cloud Security Tools, AI Agents, LLM Applications, Low-level Systems
 <div align="center">
 
 ```
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│  "Breaking clouds by day, building sentient NPCs by night"  │
-│                                                             │
-│  Built with: ☕ Coffee • 🧠 Neo4j Graphs • 🔐 Zero-days   |
-│              🤖 LLM Prompts • 💻 3AM Energy                │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│  "Breaking clouds by day, building sentient NPCs by night"   │
+│                                                              │
+│  Built with: ☕ Coffee • 🧠 Neo4j Graphs • 🔐 Zero-days     │
+│              🤖 LLM Prompts • 💻 3AM Energy                 │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
 ```
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=0xIta3hi&label=Profile%20Views)
