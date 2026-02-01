@@ -108,7 +108,7 @@ collab_on: [Cloud Security Tools, AI Agents, LLM Applications, Low-level Systems
 
 // METRICS<br/>
 <br/>
-![Code Signal](https://github-readme-activity-graph.vercel.app/graph?username=0xIta3hi&theme=tokyo-night&hide_border=true)
+![Code Signal](https://github-readme-activity-graph.vercel.app/graph?username=0xIta3hi&theme=tokyo-night&hide_border=false)
 <br/>
 ![](https://github-readme-stats.vercel.app/api?username=0xIta3hi&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=0xIta3hi&theme=nightowl&hide_border=false)<br/>
