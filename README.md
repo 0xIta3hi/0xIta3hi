@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,30:001a2e,60:003d5c,100:00d2ff&height=200&section=header&text=0xIta3hi&fontSize=60&fontColor=00d2ff&animation=twinkling&fontAlignY=65&desc=cybersecurity%20%7C%20ctf%20%7C%20ai%20security&descAlignY=85&descSize=16&descAlign=50" width="100%"/>
+<img src="./header.svg" width="100%" alt="Matrix rain header"/>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=00D2FF&center=true&vCenter=true&width=700&height=60&lines=Cybersecurity+Researcher+%7C+CTF+Competitor;AI+Security+%7C+Quantum+ML+%7C+Binary+Exploitation;Breaking+systems+to+understand+them+better.;Cloud+Purple+Team+%7C+Blockchain+Security" alt="Typing SVG" /></a>
 
