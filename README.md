@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./header.svg" width="100%" alt="Matrix rain header"/>
+<img src="./matrix.svg" width="100%" alt="Matrix rain header"/>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=00D2FF&center=true&vCenter=true&width=700&height=60&lines=Cybersecurity+Researcher+%7C+CTF+Competitor;AI+Security+%7C+Quantum+ML+%7C+Binary+Exploitation;Breaking+systems+to+understand+them+better.;Cloud+Purple+Team+%7C+Blockchain+Security" alt="Typing SVG" /></a>
 
