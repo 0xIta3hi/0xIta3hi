@@ -228,3 +228,4 @@ PORT     STATE  SERVICE           VERSION
 ```
 
 </div>
+*Note: On a break, figuring shit out and learning new things without necessarily making any new projects, the github might stay dead for some time now. If you want to contribute to any of my projects, please feel free to do so by forking and then creating a PR, i will review your generous contribution, otherwise this account will be dead for some time*
