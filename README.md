@@ -228,4 +228,3 @@ PORT     STATE  SERVICE           VERSION
 ```
 
 </div>
-Note: On a break, figuring shit out and learning new things without necessarily making any new projects, the github might stay dead for some time now.
