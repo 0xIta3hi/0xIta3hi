@@ -21,7 +21,6 @@
 ## `$ whoami`
 
 ```yaml
-name        : Aryan Bharadiya
 handle      : 0xIta3hi
 role        : Cybersecurity Researcher & CTF Competitor
 affiliation : Marwadi University — B.Tech CSE (Cybersecurity), CGPA 8.41
